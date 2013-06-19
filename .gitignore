@@ -3,3 +3,6 @@
 
 #database/..
 database/*.sql
+
+#*.html
+*.html
